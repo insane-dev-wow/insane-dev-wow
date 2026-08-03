@@ -30,7 +30,10 @@ Focused on:
 - ☁️ Cloud Native Development
 - 🏗️ Distributed Systems & Microservices
 
-# 🛠️ Tech Stack
+
+---
+
+## 🛠️ Tech Stack
 
 
 <div align="center">
@@ -48,27 +51,23 @@ Focused on:
 <br/><br/>
 
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,postgres,mysql,mongodb,redis,kafka&perline=12"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,postgres,mysql,mongodb,redis,kafka,linux,bash&perline=12"/>
 
 
 <br/><br/>
 
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman,pytorch,tensorflow&perline=12"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pytorch,tensorflow&perline=12"/>
 
 
 <br/><br/>
 
 
-<img src="https://cdn.simpleicons.org/openai" width="48"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://cdn.simpleicons.org/langchain" width="48"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-
-<br/><br/>
-
-
-<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/RAG%20Architecture-00897B?style=for-the-badge"/>
 
@@ -80,6 +79,7 @@ Focused on:
 
 
 </div>
+
 
 ---
 
@@ -117,19 +117,19 @@ Focused on:
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/insane-dev-wow/insane-dev-wow/raw/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/insane-dev-wow/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
 
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/insane-dev-wow/insane-dev-wow/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/insane-dev-wow/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 
 
   <img
     alt="Pacman contribution graph"
-    src="https://github.com/insane-dev-wow/insane-dev-wow/raw/output/pacman-contribution-graph.svg"
+    src="https://github.com/insane-dev-wow/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 
 
