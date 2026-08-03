@@ -39,13 +39,13 @@ Focused on:
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,cs,react,nextjs,angular,redux,tailwind,graphql&perline=12"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,c,cs,react,nextjs,angular,redux,tailwind,graphql&perline=12"/>
 
 
 <br/><br/>
 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,django,dotnet,reactnative,flutter,aws,gcp,azure&perline=12"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,django,dotnet,tensorflow,flutter,aws,gcp,azure&perline=12"/>
 
 
 <br/><br/>
@@ -57,7 +57,7 @@ Focused on:
 <br/><br/>
 
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pytorch,tensorflow&perline=12"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pytorch,&perline=12"/>
 
 
 <br/><br/>
@@ -147,6 +147,3 @@ Focused on:
 ### 🚀 Building Intelligent Systems with AI + Cloud + Full Stack
 
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=90&section=footer" width="100%" />
