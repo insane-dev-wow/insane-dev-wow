@@ -1,121 +1,243 @@
 <div align="center">
-  <img src="banner.svg" alt="Rheden Bermillo David — Senior AI & Full Stack Engineer" width="100%"/>
+
+<img src="banner.svg" width="100%" alt="Rheden Bermillo David - Senior AI & Full Stack Engineer"/>
+
+<br/>
+
+# Rheden Bermillo David
+
+### Senior AI Engineer · Full Stack Architect · Cloud Native Developer
+
+<p>
+Building scalable software systems, intelligent AI platforms, and production-grade applications.
+</p>
+
+<br/>
+
+<a href="https://linkedin.com/in/rheden-david-71b7b2426">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/insane-dev-wow">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="36"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:rhendendavid66@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36"/>
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rheden-david-71b7b2426"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/insane-dev-wow"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:rhendendavid66@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+
+<br/>
 
 ---
 
-### ABOUT
-
-<p align="center">
-  Senior Software Engineer with <b>8+ years of experience</b> building scalable full-stack applications and AI-powered platforms — from enterprise microservices to intelligent automation, across web, mobile, and cloud.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/8%2B%20Years%20Experience-161B22?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20and%20Full%20Stack-161B22?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud-161B22?style=flat-square"/>
-</p>
-
----
-
-### TECH STACK
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <b>AI &amp; GenAI</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/OpenAI%20API-161B22?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logo=langgraph&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Vector%20Search-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/AI%20Agents-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NLP-161B22?style=flat-square"/>
-    </td>
-    <td align="center" valign="top">
-      <b>Frontend &amp; Mobile</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React%20Native-161B22?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Angular-161B22?style=flat-square&logo=angular&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Material%20UI-161B22?style=flat-square&logo=mui&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GraphQL-161B22?style=flat-square&logo=graphql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <b>Backend &amp; APIs</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-161B22?style=flat-square&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-161B22?style=flat-square&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/gRPC-161B22?style=flat-square"/>
-    </td>
-    <td align="center" valign="top">
-      <b>Cloud &amp; DevOps</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure-161B22?style=flat-square&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GCP-161B22?style=flat-square&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-161B22?style=flat-square&logo=terraform&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <b>Data &amp; Storage</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Snowflake-161B22?style=flat-square&logo=snowflake&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <b>Architecture &amp; Systems</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Microservices-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Event%20Driven-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Kafka-161B22?style=flat-square&logo=apachekafka&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Serverless-161B22?style=flat-square&logo=serverless&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### GITHUB STATS
+# 👨‍💻 About Me
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=insane-dev-wow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insane-dev-wow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+Senior Software Engineer with **8+ years of experience** designing and building scalable
+full-stack applications, AI-powered platforms, and cloud-native systems.
+
+My focus is creating intelligent products using:
+
+**Generative AI · AI Agents · RAG Systems · Distributed Systems · Cloud Architecture**
+
 </div>
 
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insane-dev-wow&theme=tokyonight&hide_border=true"/>
+
+<img src="https://img.shields.io/badge/8%2B%20Years%20Experience-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Full%20Stack-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20%7C%20Mobile%20%7C%20Cloud-111827?style=for-the-badge"/>
+
 </div>
+
 
 ---
 
-<p align="center">
-  <sub>Always learning · Always building · Open to collaboration on AI and full-stack projects</sub>
-</p>
+# 🧠 Artificial Intelligence & GenAI
+
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="60"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="60"/>
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="60"/>
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="60"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RAG%20Architecture-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# ⚡ Frontend & Mobile
+
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="60"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="60"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="60"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="60"/>
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="60"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60"/>
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Material%20UI-111827?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# 🚀 Backend Engineering
+
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/java/ED8B00" width="60"/>
+<img src="https://cdn.simpleicons.org/spring/6DB33F" width="60"/>
+<img src="https://cdn.simpleicons.org/node.js/339933" width="60"/>
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="60"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="60"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="60"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gRPC-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# ☁️ Cloud & DevOps
+
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="60"/>
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="60"/>
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="60"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="60"/>
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="60"/>
+<img src="https://cdn.simpleicons.org/terraform/844FBA" width="60"/>
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="60"/>
+<img src="https://cdn.simpleicons.org/serverless/FD5750" width="60"/>
+
+</div>
+
+
+---
+
+# 🗄 Data & Infrastructure
+
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="60"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="60"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="60"/>
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="60"/>
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="60"/>
+<img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="60"/>
+
+</div>
+
+
+---
+
+# 🏗 Architecture & Engineering
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Event%20Driven%20Architecture-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Enterprise%20Architecture-111827?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=insane-dev-wow&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=insane-dev-wow&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=insane-dev-wow&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Activity
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/insane-dev-wow/insane-dev-wow/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## ⚡ Always Learning · Always Building
+
+Open to collaboration on:
+
+**AI Agents · Generative AI · Cloud Platforms · Full Stack Systems**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=insane-dev-wow&style=flat-square&color=blue"/>
+
+</div>
